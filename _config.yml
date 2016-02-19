@@ -1,15 +1,15 @@
 analytics: {}
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7072251182820078
-  lightness: 0.007728803720654875
-  rhythmicContrast: 0.5861014006416435
-  saturation: 0.9571410280002509
+    - '#C8D8E0'
+    - '#295C4C'
+    - '#60A888'
+    - '#409078'
+    - '#C07898'
+  brandStrength: 0.16791
+  lightness: 0.007728
+  rhythmicContrast: 0.586101
+  saturation: 0.957141
 cta: {}
 layout_spectrum: 0.002798
 name: John Forrest
