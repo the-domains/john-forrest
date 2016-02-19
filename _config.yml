@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7072251182820078
+  lightness: 0.007728803720654875
+  rhythmicContrast: 0.5861014006416435
+  saturation: 0.9571410280002509
+cta: {}
+layout_spectrum: 0.605591695097207
+name: John Forrest
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.3973993493889707
