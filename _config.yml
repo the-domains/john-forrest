@@ -1,6 +1,6 @@
 name: John Forrest
 favicon: null
-layout_spectrum: 0.25927
+layout_spectrum: 0
 typography_spectrum: 0.195895
 title: John Forrest
 cta:
@@ -22,7 +22,7 @@ color:
     - '#908080'
     - '#B83828'
     - '#F0D8B0'
-  brandStrength: 0
+  brandStrength: 0.3125
   lightness: 0.1875
   saturation: 0.625
   rhythmicContrast: 0.75
