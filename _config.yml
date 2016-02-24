@@ -1,4 +1,20 @@
-analytics: {}
+name: John Forrest
+favicon: null
+layout_spectrum: 0.585585
+typography_spectrum: 0.195895
+title: John Forrest
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#B8B0B0'
@@ -8,11 +24,9 @@ color:
     - '#F0D8B0'
   brandStrength: 0.16791
   lightness: 0.007728
-  rhythmicContrast: 0.586101
   saturation: 0.957141
-cta: {}
-layout_spectrum: 0.585585
-name: John Forrest
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.195895
+  rhythmicContrast: 0.586101
+purpose:
+  - name: null
+    item: null
+    url: null
